@@ -1,0 +1,23 @@
+# Data collection & processing
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.2.0
+openpyxl>=3.1.0
+
+# BigQuery
+google-cloud-bigquery>=3.17.0
+google-cloud-bigquery-storage>=2.24.0
+db-dtypes>=1.2.0
+
+# Dash web app
+dash>=2.18.0
+dash-bootstrap-components>=1.6.0
+plotly>=5.24.0
+
+# Notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
