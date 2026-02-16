@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "bigquery": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-bigquery",
+        "--project",
+        "open-sud",
+        "--location",
+        "US"
+      ]
+    }
+  }
+}
